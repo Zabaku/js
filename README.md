@@ -14,7 +14,7 @@ apt update && apt upgrade -y
 git clone https://github.com/Zabaku/js
 
 
-cd Bot-vk-js && npm install
+cd js && npm install
 
 
 npm start
