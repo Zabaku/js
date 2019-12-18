@@ -1,4 +1,4 @@
-# Bot-vk-js
+# Bot-js
 BOT JS
 
 
@@ -11,7 +11,7 @@ apt install nodejs-current -y
 apt update && apt upgrade -y
 
 
-git clone https://github.com/Nutpynt/Bot-vk-js
+git clone https://github.com/Zabaku/js
 
 
 cd Bot-vk-js && npm install
